@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="[https://github.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_USERNAME/assets/YOUR_USER_ID/YOUR_IMAGE_ID" alt="A cool banner image related to coding or technology" width="100%](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.swarthmore.edu%2Fits%2F2022%2F12%2F02%2Fwhats-new-from-github-universe-2022%2F&psig=AOvVaw36bGYJc8xo2jsxIfHO_4kS&ust=1762242089151000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDHusG91ZADFQAAAAAdAAAAABAE)"/>
+  <img src="[https://github.com/starquill/starquill/assets/YOUR_USER_ID/YOUR_IMAGE_ID" alt="A cool banner image related to coding or technology" width="100%]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.swarthmore.edu%2Fits%2F2022%2F12%2F02%2Fwhats-new-from-github-universe-2022%2F&psig=AOvVaw36bGYJc8xo2jsxIfHO_4kS&ust=1762242089151000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDHusG91ZADFQAAAAAdAAAAABAE](https://avatars.githubusercontent.com/u/158742476?u=07f9257464aa98eff9dc9f274e41174627d1a7a8&v=4))"/>
 </p>
 
 ## 👨‍💻 About Me
