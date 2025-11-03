@@ -64,3 +64,21 @@ Here are the technologies I work with:
 </p>
 
 ---
+## 📊 My Activity & Stats
+
+These stats automatically update, showcasing my problem-solving skills and development activity.
+
+### 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=Ajay_Gitala&theme=dark" alt="Your LeetCode Stats" />
+</p>
+
+### 💻 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=starquill&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Your GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starquill&layout=compact&theme=dark" alt="Your Top Languages" />
+</p>
+
+---
