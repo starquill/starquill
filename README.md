@@ -88,7 +88,7 @@ These stats automatically update, showcasing my problem-solving skills and devel
   <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHzXQvouSO-qAAAAZpI5spgMicLnMG6CbCJxCGmGV_sy3NpAoY_qsWnM5V9y9ljux9t6hZEenjB_ltd_7yO8sg72iEXngf-tpXRsy6Oqn9TjtEiwejo5RGlpN3F1YG7wM_mHHk=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fajay-gitala-a42a7a257%2F" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/[Ajay_Gitala]" target="_blank">
+  <a href="https://leetcode.com/Ajay_Gitala" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:[ajay.2201075cs@iiitbh.ac.in]" target="_blank">
