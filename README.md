@@ -30,7 +30,7 @@ Production-ready URL shortener with advanced caching and analytics
 - 🚀 Deployed on Render with zero-downtime updates
 - 🌐 **[Live Demo](https://url-shortening-service-dbam.onrender.com)**
 
-### 💬 Real-Time Chat Platform *(Coming Soon)*
+### 💬 Real-Time Chat Platform 
 **Go · WebSocket · Redis Pub/Sub · PostgreSQL · React**
 
 Distributed real-time messaging platform with horizontal scaling
